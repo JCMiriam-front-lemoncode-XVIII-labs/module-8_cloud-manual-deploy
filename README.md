@@ -49,17 +49,9 @@ Los siguientes pasos describen el procedimiento de publicación. Su ejecución y
 
 La configuración del origen de publicación se realiza manualmente. GitHub ejecuta después su proceso de publicación; para esta práctica no se ha creado un workflow propio de GitHub Actions.
 
-## 5. Resultado esperado
+## 5. Resultado
 
 Con el nombre actual del repositorio y sin configurar un dominio personalizado, la dirección esperada es:
 
 [https://jcmiriam-front-lemoncode-xviii-labs.github.io/module-8_cloud-manual-deploy/](https://jcmiriam-front-lemoncode-xviii-labs.github.io/module-8_cloud-manual-deploy/)
 
-Esta dirección es la URL prevista, no una confirmación de que el sitio ya esté publicado. La validación final consiste en acceder a ella después del despliegue y repetir las comprobaciones de la aplicación en el entorno público.
-
-Una vez configurado GitHub Pages, los cambios que se suban a la rama `main` volverán a publicarse desde el mismo origen.
-
-## Referencias
-
-- [Crear un sitio de GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site).
-- [Configurar el origen de publicación](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site).
